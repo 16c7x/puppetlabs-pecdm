@@ -139,7 +139,7 @@ The number of options required are reduced when destroying a stack
 
 The number of options required are reduced when destroying a stack
 
-`bolt plan run pecdm::destroy provider=aws`
+`bolt plan run pecdm::destroy provider=aws region=<cloud_region>`
 
 ### Upgrading examples
 
